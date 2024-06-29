@@ -1,0 +1,4 @@
+#!/bin/bash
+AIDERX_PYTHON_PATH=$HOME/Code/Venvs/aiderX/bin/python
+AIDERX_PATH=$HOME/Code/aiderX
+
